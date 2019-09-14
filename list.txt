@@ -1,0 +1,7 @@
+total 4
+drwxrwxrwx 1 jwuertz jwuertz  512 Sep 14 10:21 ./
+drwxrwxrwx 1 jwuertz jwuertz  512 Sep 14 10:18 ../
+drwxrwxrwx 1 jwuertz jwuertz  512 Sep 14 10:21 .git/
+-rwxrwxrwx 1 jwuertz jwuertz   18 Sep 14 10:18 README.md*
+-rwxrwxrwx 1 jwuertz jwuertz 2774 Sep 14 10:20 ifconfig.txt*
+-rwxrwxrwx 1 jwuertz jwuertz    0 Sep 14 10:21 list.txt*
